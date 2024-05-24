@@ -1,2 +1,4 @@
-# student-management-system_1
-It's all about Student Management System.
+# Student Management System
+It's all about Student Management System that will help manage student.
+
+# Features
