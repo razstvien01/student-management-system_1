@@ -2,10 +2,18 @@
 #include <stdlib.h>
 
 #include "student.h"
+#include "student_manage.h"
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+void menu(){
+	// code here
+}
 
 int main(int argc, char *argv[]) {
 	struct Student student;
+	
+	// code here
+	// while loop
+	
+	
 	return 0;
 }
